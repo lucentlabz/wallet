@@ -42,7 +42,7 @@
     "@tonconnect/protocol": "2.2.6",
     "@yornaath/batshit": "^0.10.0",
     "automerge": "1.0.1-preview.7",
-    "axios": "^0.24.0",
+    "axios": "^1.7.4",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "bn.js": "^5.2.0",
     "buffer": "^6.0.3",
