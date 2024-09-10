@@ -33,7 +33,7 @@
     "@shopify/react-native-performance": "^4.1.2",
     "@shopify/react-native-skia": "0.1.196",
     "@tanstack/query-sync-storage-persister": "^4.32.6",
-    "@tanstack/react-query": "^4.32.6",
+    "@tanstack/react-query": "^5.51.24",
     "@tanstack/react-query-persist-client": "^4.32.6",
     "@ton-community/ton-ledger": "^7.0.1",
     "@ton/core": "^0.56.2",
