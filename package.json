@@ -95,7 +95,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-i18next": "^11.15.3",
-    "react-native": "0.73.0",
+    "react-native": "0.75.3",
     "react-native-ble-plx": "^2.0.3",
     "react-native-blurhash": "^1.1.10",
     "react-native-bouncy-checkbox": "^2.1.9",
