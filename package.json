@@ -20,7 +20,7 @@
     "@expo/react-native-action-sheet": "^4.0.1",
     "@ledgerhq/hw-transport": "^6.28.8",
     "@ledgerhq/react-native-hid": "^6.32.2",
-    "@ledgerhq/react-native-hw-transport-ble": "^6.29.5",
+    "@ledgerhq/react-native-hw-transport-ble": "^6.33.2",
     "@react-native-clipboard/clipboard": "^1.8.5",
     "@react-native-community/hooks": "^2.8.1",
     "@react-native-picker/picker": "2.4.10",
