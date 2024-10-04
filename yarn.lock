@@ -1730,23 +1730,6 @@
     semver "7.3.2"
     tempy "0.3.0"
 
-"@expo/image-utils@^0.3.18":
-  version "0.3.23"
-  resolved "https://registry.yarnpkg.com/@expo/image-utils/-/image-utils-0.3.23.tgz#f14fd7e1f5ff6f8e4911a41e27dd274470665c3f"
-  integrity sha512-nhUVvW0TrRE4jtWzHQl8TR4ox7kcmrc2I0itaeJGjxF5A54uk7avgA0wRt7jP1rdvqQo1Ke1lXyLYREdhN9tPw==
-  dependencies:
-    "@expo/spawn-async" "1.5.0"
-    chalk "^4.0.0"
-    fs-extra "9.0.0"
-    getenv "^1.0.0"
-    jimp-compact "0.16.1"
-    mime "^2.4.4"
-    node-fetch "^2.6.0"
-    parse-png "^2.1.0"
-    resolve-from "^5.0.0"
-    semver "7.3.2"
-    tempy "0.3.0"
-
 "@expo/image-utils@^0.5.0":
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/@expo/image-utils/-/image-utils-0.5.1.tgz#06fade141facebcd8431355923d30f3839309942"
@@ -5476,10 +5459,10 @@ expo-app-loading@~2.0.0:
   dependencies:
     expo-splash-screen "~0.15.0"
 
-expo-application@~5.3.0:
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/expo-application/-/expo-application-5.3.1.tgz#074bbfc6bb5d65ae74a67f5288fa3eb582237e53"
-  integrity sha512-HR2+K+Hm33vLw/TfbFaHrvUbRRNRco8R+3QaCKy7eJC2LFfT05kZ15ynGaKfB5DJ/oqPV3mxXVR/EfwmE++hoA==
+expo-application@~5.9.0:
+  version "5.9.1"
+  resolved "https://registry.yarnpkg.com/expo-application/-/expo-application-5.9.1.tgz#a12e0cf2741b6f084cc49cd0121ad0a70c770459"
+  integrity sha512-uAfLBNZNahnDZLRU41ZFmNSKtetHUT9Ua557/q189ua0AWV7pQjoVAx49E4953feuvqc9swtU3ScZ/hN1XO/FQ==
 
 expo-asset@~10.0.10:
   version "10.0.10"
@@ -5670,20 +5653,19 @@ expo-network@^5.4.0:
   resolved "https://registry.yarnpkg.com/expo-network/-/expo-network-5.6.0.tgz#3562d969e38482af29498a497d0724092d5482fe"
   integrity sha512-e5K6u3SIkUegagRZ8TflEiZxv7E4PJDUx7wrbzcwjtvdP73fm7HgAxbeAZf8AjsPyRudBu9tv4X/ebRunV3eBw==
 
-expo-notifications@~0.20.1:
-  version "0.20.1"
-  resolved "https://registry.yarnpkg.com/expo-notifications/-/expo-notifications-0.20.1.tgz#55479e3bbde31ab5ccf6f6fd3ed288c6c91101d2"
-  integrity sha512-Y4Y8IWYj/cSWCP/P167z3GRg//5ZlsznfMXi4ABdWOOpF0RGNpd5N17TxioNivtt7tMhZ/o1vmzFxulhy0nBWg==
+expo-notifications@~0.28.16:
+  version "0.28.18"
+  resolved "https://registry.yarnpkg.com/expo-notifications/-/expo-notifications-0.28.18.tgz#a3e5488429079d664885e975985dd2d6bdb52a5b"
+  integrity sha512-oRvr8rYhbbKNhVgcO+fj5g5g6vS0umGcElpeMSWa0KudUfOOgV6nNLvv5M89393z2Ahd7wPK4bnK8lygc0nCPQ==
   dependencies:
-    "@expo/image-utils" "^0.3.18"
+    "@expo/image-utils" "^0.5.0"
     "@ide/backoff" "^1.0.0"
     abort-controller "^3.0.0"
     assert "^2.0.0"
     badgin "^1.1.5"
-    expo-application "~5.3.0"
-    expo-constants "~14.4.2"
+    expo-application "~5.9.0"
+    expo-constants "~16.0.0"
     fs-extra "^9.1.0"
-    uuid "^3.4.0"
 
 expo-random@~13.2.0:
   version "13.2.0"
