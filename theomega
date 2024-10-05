@@ -1,0 +1,18 @@
+{
+    "parsed": {
+        "name": "TreeConfig",
+        "data": {
+            "treeCreator": "Hb54P69BkfJw3hwJsFqb6LYAjQxQHLY721KTrjy2atCm",
+            "treeDelegate": "2suz6wUiVMxCCWSyQBciQiavpWnNFZReqGfUrjhAJtFU",
+            "totalMintCapacity": "1048576",
+            "numMinted": "401596",
+            "isPublic": false,
+            "isDecompressible": {
+                "disabled": {}
+            }
+        },
+        "type": "account"
+    },
+    "program": "bubblegum",
+    "space": 96
+}
