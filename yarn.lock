@@ -5794,10 +5794,10 @@ expo-blur@12.8.0:
   resolved "https://registry.yarnpkg.com/expo-blur/-/expo-blur-12.8.0.tgz#f07ae2dbfc98d04a2f050258c9aca5433523b63b"
   integrity sha512-ngM4x21Sg1kLnu1DtZA60+oQsKRXsXrzzZWU24THGnMNA36P0O1rTKbERxdExRvJavO5ls3Gu54ut+IvKFQhew==
 
-expo-camera@~13.4.4:
-  version "13.4.4"
-  resolved "https://registry.yarnpkg.com/expo-camera/-/expo-camera-13.4.4.tgz#e01ead31a3150398d37e94c307f6937480680690"
-  integrity sha512-7k54APbpSulUDR2CrD5SrmKjCdfdg4tqKRpbBOKc2J2MIBHhunExU77435JDYSejHRY5bfRHZsEp3yKwR862uw==
+expo-camera@~15.0.16:
+  version "15.0.16"
+  resolved "https://registry.yarnpkg.com/expo-camera/-/expo-camera-15.0.16.tgz#149f25304ae7d76ae55653ca16f947e9f437c782"
+  integrity sha512-FLE02DMqkjwsb7IugKAqQvBe6s+TCQeb5LupO1+r//wAhBwmHncOrc6zV95ZEC2f9PTPK34nFH/s8CDGiVzIAA==
   dependencies:
     invariant "^2.2.4"
 
