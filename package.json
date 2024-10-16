@@ -27,7 +27,7 @@
     "@react-native-segmented-control/segmented-control": "^2.4.2",
     "@react-navigation/bottom-tabs": "^6.5.11",
     "@react-navigation/native": "6.1.9",
-    "@react-navigation/native-stack": "^6.9.12",
+    "@react-navigation/native-stack": "^6.11.0",
     "@react-navigation/stack": "6.3.20",
     "@shopify/flash-list": "^1.6.4",
     "@shopify/react-native-performance": "^4.1.2",
