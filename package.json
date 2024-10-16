@@ -57,7 +57,7 @@
     "expo-camera": "~15.0.16",
     "expo-constants": "~16.0.1",
     "expo-crypto": "~12.4.1",
-    "expo-device": "~5.4.0",
+    "expo-device": "~6.0.2",
     "expo-haptics": "~12.4.0",
     "expo-image": "~1.12.15",
     "expo-image-picker": "~14.3.2",
