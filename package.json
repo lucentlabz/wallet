@@ -74,7 +74,7 @@
     "expo-status-bar": "~1.6.0",
     "expo-store-review": "^6.6.0",
     "expo-system-ui": "^3.0.6",
-    "expo-web-browser": "~12.3.2",
+    "expo-web-browser": "~13.0.3",
     "fast-html-parser": "^1.0.1",
     "fp-ts": "^2.12.1",
     "i18next": "^23.14.0",
