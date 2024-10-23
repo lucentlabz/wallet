@@ -87,7 +87,7 @@
     "mixpanel-react-native": "^3.0.6",
     "murmurhash": "^2.0.0",
     "number-to-bn": "^1.7.0",
-    "patch-package": "^6.4.7",
+    "patch-package": "^8.0.0",
     "plist": "^3.0.4",
     "postinstall-postinstall": "^2.1.0",
     "qrcode": "^1.5.1",
