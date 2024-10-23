@@ -9735,10 +9735,10 @@ react-native-copilot@^3.2.1:
     "@changesets/cli" "^2.26.0"
     mitt "^3.0.0"
 
-react-native-device-info@^10.11.0:
-  version "10.11.0"
-  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-10.11.0.tgz#2c9f378f1c3c5eb9aafa803d015b84325991a9aa"
-  integrity sha512-qRzhuYOm5ZXQi5dhfJFjDq157oipxcEW/fo0QyMm5+TI6V6/+P/tju+Hif6z0rpLCf7MV7iDVRv2Kqha4D/yvQ==
+react-native-device-info@^13.0.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-13.1.0.tgz#e5076088e7f1eddba5cf5693ab46210946382e3f"
+  integrity sha512-tje+yRDG4ue2K7uC862IhxX7wFoufwozSdqLuzLKA8X1b4zgfF6iXId0Da8c2qS6FtaMr+vTsBFrY7Gxo1wTew==
 
 react-native-fast-pbkdf2@^0.3.1:
   version "0.3.1"
